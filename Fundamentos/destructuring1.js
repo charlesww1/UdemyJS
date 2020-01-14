@@ -1,7 +1,7 @@
 // novo recurso do ES2015
 
 const pessoa = {
-    nome: 'ana',
+    nome: 'Isa',
     idade: 18,
     endereco: {
         logradouro: 'Rua noix',
