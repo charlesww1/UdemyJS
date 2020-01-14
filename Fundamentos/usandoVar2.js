@@ -5,3 +5,4 @@ console.log('dentro =', numero)
 }
 
 console.log('fora =', numero)
+
