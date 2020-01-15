@@ -1,0 +1,22 @@
+h1{
+    font-size: 20px;
+    position: absolute;
+    top: 50px;
+    left: 120px;
+    font-weight: bold;
+    background-color: #f444;
+    color: gray
+    
+}
+
+#textoPrincipal{
+    position: absolute;
+    top: 80px;
+    left: 120px;
+}
+
+.fundo {
+    position: absolute;
+    top: 100px;
+    left: 120px;
+}
