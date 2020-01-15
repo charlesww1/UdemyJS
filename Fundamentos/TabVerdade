@@ -1,0 +1,34 @@
+//Operador "e" se tiver falso é falso
+
+    v e v -> v
+    v e f -> f
+    f e f -> f
+    f e v -> f
+    f e ? -> f
+
+//Operador "ou" se um ou outro for verdadeiro, é verdadeiro
+
+    v ou v -> v
+    v ou f -> v
+    f ou f -> f
+    f ou v -> v
+    v ou ? -> v
+
+//Operador "xor("ou exclusivo") se for diferente é verdadeiro, se for igual é falso
+
+    v xor v -> f
+    v xor f -> v
+    f xor v -> v
+    f xor f -> f
+
+//Todos -> "e, ou, xor" são operadores binarios
+
+-----------------------------------------------
+
+//Operador "!", negaçao logica vira o oposto
+
+    !v -> f
+    !f -> v
+
+//Operador ->"!" é um operador Unario
+
